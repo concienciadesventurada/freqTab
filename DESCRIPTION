@@ -1,0 +1,13 @@
+Package: freqTab
+Title: Create frequency tables and calculate measures of central tendency for grouped data.
+Version: 0.0.0.9000
+Authors@R: 
+    c(person("Matías", "Martínez", role = c("aut", "cre"), email = "porquemarx@gmail.com", comment = "First package from an amateur programmer."))
+Description: Construct complete frequency tables to interpret and calculate measures of central tendency for grouped data in a tiny and practical package. 
+Maintainer: Matías Martínez <porquemarx@gmail.com>
+License: CC0
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+Imports: 
+    ggplot2
